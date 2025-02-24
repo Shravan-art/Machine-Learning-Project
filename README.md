@@ -44,13 +44,13 @@ The dataset for this project will be sourced from Kaggle, a popular platform for
 •	Evaluate the performance of each model using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC curve.<br>
 •	Select the model with the best overall performance.<br><br>
 5.	𝐓𝐨𝐨𝐥𝐬:<br><br>
-👉🏼	Programming Language: Python<br>
-👉🏼	Libraries:<br>
-✅	pandas: For data manipulation and analysis.<br>
-✅	NumPy: For numerical computations.<br>
-✅	scikit-learn: For machine learning algorithms, data preprocessing, and model evaluation.<br>
-✅	matplotlib/seaborn: For data visualization.<br>
-👉🏼	IDE: Jupyter Notebook or any preferred Python IDE.<br><br>
+👉🏼	𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: 𝐏𝐲𝐭𝐡𝐨𝐧<br><br>
+👉🏼	𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:<br><br>
+✅	𝐩𝐚𝐧𝐝𝐚𝐬: For data manipulation and analysis.<br>
+✅	𝐍𝐮𝐦𝐏𝐲: For numerical computations.<br>
+✅	𝐬𝐜𝐢𝐤𝐢𝐭-𝐥𝐞𝐚𝐫𝐧: For machine learning algorithms, data preprocessing, and model evaluation.<br>
+✅	𝐦𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛/𝐬𝐞𝐚𝐛𝐨𝐫𝐧: For data visualization.<br><br>
+👉🏼	𝐈𝐃𝐄: Jupyter Notebook or any preferred Python IDE.<br><br>
 
 
 <h2>▶️	𝐄𝐱𝐩𝐞𝐜𝐭𝐞𝐝 𝐎𝐮𝐭𝐜𝐨𝐦𝐞𝐬</h2><br>
