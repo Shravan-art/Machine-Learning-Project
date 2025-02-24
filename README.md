@@ -10,9 +10,9 @@
 
 
 <h2>▶️	𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭</h2>
-👉🏼	𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝: Credit card fraud, a most of the time happening issue in the digital age, involves unauthorized use of credit cards for financial gain. As e-commerce and digital payments continue to proliferate, so too do the opportunities for fraudulent activities. This problem not only impacts individuals but also poses substantial risks to financial institutions and the global economy.   
-👉🏼	𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: The primary objective of this project is to develop a robust machine learning model that can accurately classify credit card transactions as fraudulent or genuine. This model will serve as a valuable tool for financial institutions to detect and prevent fraudulent activities, thereby safeguarding their assets and protecting their customers.
-👉🏼	𝐒𝐜𝐨𝐩𝐞:
+<li>👉🏼	𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝:</h2> Credit card fraud, a most of the time happening issue in the digital age, involves unauthorized use of credit cards for financial gain. As e-commerce and digital payments continue to proliferate, so too do the opportunities for fraudulent activities. This problem not only impacts individuals but also poses substantial risks to financial institutions and the global economy.   
+<li>👉🏼	𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:</h2> The primary objective of this project is to develop a robust machine learning model that can accurately classify credit card transactions as fraudulent or genuine. This model will serve as a valuable tool for financial institutions to detect and prevent fraudulent activities, thereby safeguarding their assets and protecting their customers.
+<li>👉🏼	𝐒𝐜𝐨𝐩𝐞:</h2>
 <li>Data Acquisition and Preparation:<br> Obtain and preprocess the credit card fraud dataset, handling missing values, outliers, and imbalanced class distribution.
 •	Feature Engineering: Explore feature engineering techniques to extract relevant information from the raw data and improve model performance.   
 •	Model Selection and Training: Implement and evaluate various classification algorithms, including Logistic Regression, Support Vector Machines, Random Forest, Decision Trees, and K-Nearest Neighbors.
