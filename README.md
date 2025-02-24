@@ -24,15 +24,15 @@ The dataset for this project will be sourced from Kaggle, a popular platform for
 
 
 <h2>▶️	𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲</h2>
-𝟏.	##𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠:<br><br>
+𝟏.	𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠:<br><br>
 •	Handle missing values (if any)<br>
 •	Identify and address outliers (if any)<br>
 •	Scale and normalize numerical features<br>
 •	Address class imbalance using techniques like oversampling or under sampling (if any)<br><br>
-𝟐.	##𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠:<br><br>
+𝟐.	𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠:<br><br>
 •	Explore feature engineering techniques to create new features or transform existing ones (if any).<br>
 •	Consider feature selection methods to identify the most relevant features (if any).<br><br>
-𝟑.	##𝐌𝐨𝐝𝐞𝐥 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 (𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐔𝐬𝐞𝐝):<br><br>
+𝟑.	𝐌𝐨𝐝𝐞𝐥 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 (𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐔𝐬𝐞𝐝):<br><br>
 •	Implement the following classification algorithms: <br>
 ✅	Logistic Regression<br>
 ✅	Support Vector Machines<br>
@@ -40,10 +40,10 @@ The dataset for this project will be sourced from Kaggle, a popular platform for
 ✅	Decision Tree<br>
 ✅	K-Nearest Neighbors<br>
 •	Train each model on the pre-processed dataset.<br><br>
-𝟒.	##𝐌𝐨𝐝𝐞𝐥 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧:<br><br>
+𝟒.	𝐌𝐨𝐝𝐞𝐥 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧:<br><br>
 •	Evaluate the performance of each model using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC curve.<br>
 •	Select the model with the best overall performance.<br><br>
-𝟱.	##𝐓𝐨𝐨𝐥𝐬:<br><br>
+𝟱.	𝐓𝐨𝐨𝐥𝐬:<br><br>
 👉🏼	𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: 𝐏𝐲𝐭𝐡𝐨𝐧<br><br>
 👉🏼	𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:<br><br>
 ✅	𝐩𝐚𝐧𝐝𝐚𝐬: For data manipulation and analysis.<br>
