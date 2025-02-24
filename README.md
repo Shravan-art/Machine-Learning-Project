@@ -6,7 +6,7 @@
 
 
 ▶️	𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐒𝐮𝐦𝐦𝐚𝐫𝐲
-This project aims to develop a machine learning model capable of accurately classifying credit card transactions as fraudulent or genuine. By analyzing a dataset comprising numerical features derived from PCA transformation, transaction time, amount, and fraud labels, we seek to mitigate the significant financial losses associated with credit card fraud. The project will employ a range of classification algorithms, including Logistic Regression, Support Vector Machines, Random Forest, Decision Trees, and K-Nearest Neighbors, to identify the most effective model for this task.
+<h2>Objective:</h2> This project aims to develop a machine learning model capable of accurately classifying credit card transactions as fraudulent or genuine. By analyzing a dataset comprising numerical features derived from PCA transformation, transaction time, amount, and fraud labels, we seek to mitigate the significant financial losses associated with credit card fraud. The project will employ a range of classification algorithms, including Logistic Regression, Support Vector Machines, Random Forest, Decision Trees, and K-Nearest Neighbors, to identify the most effective model for this task.
 
 
 ▶️	𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭
