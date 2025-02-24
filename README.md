@@ -13,10 +13,10 @@
 <li>👉🏼	𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝:</h2> Credit card fraud, a most of the time happening issue in the digital age, involves unauthorized use of credit cards for financial gain. As e-commerce and digital payments continue to proliferate, so too do the opportunities for fraudulent activities. This problem not only impacts individuals but also poses substantial risks to financial institutions and the global economy.   
 <li>👉🏼	𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:</h2> The primary objective of this project is to develop a robust machine learning model that can accurately classify credit card transactions as fraudulent or genuine. This model will serve as a valuable tool for financial institutions to detect and prevent fraudulent activities, thereby safeguarding their assets and protecting their customers.
 <li>👉🏼	𝐒𝐜𝐨𝐩𝐞:</h2><br>
-o	Data Acquisition and Preparation:<br> Obtain and preprocess the credit card fraud dataset, handling missing values, outliers, and imbalanced class distribution.
-o	Feature Engineering:<br> Explore feature engineering techniques to extract relevant information from the raw data and improve model performance.   
-o	Model Selection and Training:<br> Implement and evaluate various classification algorithms, including Logistic Regression, Support Vector Machines, Random Forest, Decision Trees, and K-Nearest Neighbors.
-o	Model Evaluation:<br> Assess the performance of the selected model using appropriate metrics such as accuracy, precision, recall, F1-score, and ROC-AUC curve.<br>
+o	Data Acquisition and Preparation:<br> Obtain and preprocess the credit card fraud dataset, handling missing values, outliers, and imbalanced class distribution.<br>
+o	Feature Engineering:<br> Explore feature engineering techniques to extract relevant information from the raw data and improve model performance.<br>
+o	Model Selection and Training:<br> Implement and evaluate various classification algorithms, including Logistic Regression, Support Vector Machines, Random Forest, Decision Trees, and K-Nearest Neighbors.<br>
+o	Model Evaluation:<br> Assess the performance of the selected model using appropriate metrics such as accuracy, precision, recall, F1-score, and ROC-AUC curve.<br><br>
 
 
 <h2>▶️	𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬</h2>
